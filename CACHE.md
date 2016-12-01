@@ -1,13 +1,20 @@
 Terrorist
 ===
 
+General
+===
+
+ * Ledge: ```AWP / lurker```
+ * Zinc, RootKernel: ```Entry frag```
+ * Yorick, Bosmir: ```Support / Late entry / Lurker```
+
 Default positions (mid-control > A)
 ---
 
  * Ledge: ```T-side B```
  * Zinc: Boost on ```Mid```
  * RootKernel: ```Main```
- * Yorick: Boost (Zinc) - ```Squeaky```
+ * Yorick: Boost (Zinc) then ```Squeaky```
  * Bosmir: Peeking ```Mid```
 
 Positions when bomb is planted
