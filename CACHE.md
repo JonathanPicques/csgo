@@ -33,7 +33,7 @@ Default positions
  * Yorick: ```A``` (Fixed)
  * Bosmir: ```B / Fallback``` (whitebox if mid is being pushed)
  
- Positions on retake
- ---
- 
- TODO
+Positions on retake
+---
+
+TODO
