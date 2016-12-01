@@ -5,7 +5,7 @@ Default positions
 ---
 
  * Ledge: B
- * Zinc: Boost on A
+ * Zinc: Boost on Mid
  * RootKernel: Main A
  * Yorick: Boost (Zinc) - Secure squeaky
- * Bosmir: Mid
+ * Bosmir: Peeking Mid
