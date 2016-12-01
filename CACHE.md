@@ -1,13 +1,6 @@
 Terrorist
 ===
 
-General
-===
-
- * Ledge: ```AWP / lurker```
- * Zinc, RootKernel: ```Entry frag```
- * Yorick, Bosmir: ```Support / Late entry / Lurker```
-
 Default positions (mid-control > A)
 ---
 
